@@ -1,20 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url><loc>https://jackestesdebrabander.com/</loc><lastmod>2026-02-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-    <url><loc>https://jackestesdebrabander.com/about/</loc><lastmod>2026-02-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://jackestesdebrabander.com/services/</loc><lastmod>2026-02-15</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://jackestesdebrabander.com/contact/</loc><lastmod>2026-02-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/</loc><lastmod>2026-02-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/private-placement-offerings-guide/</loc><lastmod>2026-02-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/pre-ipo-investing-accredited-investors/</loc><lastmod>2026-02-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/accredited-investor-guide/</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/regulation-d-explained/</loc><lastmod>2026-01-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/private-equity-vs-public-markets/</loc><lastmod>2026-01-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/due-diligence-private-investments/</loc><lastmod>2026-02-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/growth-equity-investing-guide/</loc><lastmod>2026-02-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/secondary-market-investing/</loc><lastmod>2026-01-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/alternative-investments-portfolio-diversification/</loc><lastmod>2026-01-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/fintech-investment-opportunities/</loc><lastmod>2026-01-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/healthcare-private-investments/</loc><lastmod>2026-02-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://jackestesdebrabander.com/blog/building-wealth-private-markets/</loc><lastmod>2026-02-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://jackestesdebrabander.com/</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/about/</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/services/</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/contact/</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/private-placement-offerings-guide/</loc>
+        <lastmod>2026-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/pre-ipo-investing-accredited-investors/</loc>
+        <lastmod>2026-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/accredited-investor-guide/</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/regulation-d-explained/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/private-equity-vs-public-markets/</loc>
+        <lastmod>2026-01-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/due-diligence-private-investments/</loc>
+        <lastmod>2026-02-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/growth-equity-investing-guide/</loc>
+        <lastmod>2026-02-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/secondary-market-investing/</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/alternative-investments-portfolio-diversification/</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/fintech-investment-opportunities/</loc>
+        <lastmod>2026-01-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/healthcare-private-investments/</loc>
+        <lastmod>2026-02-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://jackestesdebrabander.com/blog/building-wealth-private-markets/</loc>
+        <lastmod>2026-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://jackestesdebrabander.com/jack-estes-debrabander.png</image:loc>
+            <image:title>Jack Estes DeBrabander - Private Market Investment Specialist</image:title>
+            <image:caption>Jack Estes DeBrabander, founder and private placement offering specialist helping accredited investors access pre-IPO and private market opportunities</image:caption>
+        </image:image>
+    </url>
 </urlset>
