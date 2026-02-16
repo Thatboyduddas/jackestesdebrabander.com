@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Add reveal class to animatable elements
     const revealElements = document.querySelectorAll(
-        '.about-card, .service-card, .process-step, .why-card, .info-card, .section-header'
+        '.about-card, .service-card, .process-step, .why-card, .info-card, .section-header, .faq-item, .about-long'
     );
     revealElements.forEach((el, i) => {
         el.classList.add('reveal');
